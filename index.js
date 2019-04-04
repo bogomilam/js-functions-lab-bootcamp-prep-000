@@ -1,7 +1,4 @@
-// write your code below!
-describe('functions', () => {
-  describe('happyHolidays', () => {
-    it('returns "Happy holidays!"', () => {
-      expect(happyHolidays()).toEqual('Happy holidays!')
-    })
-  })
+function sayHappyHolidays(string) {
+  if (string.toLowerCase() === string) {
+    return  "Happy holidays!"}
+}
