@@ -1,3 +1,7 @@
 // write your code below!
-function sayhappyHolidays(string)
-return "Happy holidays!"
+describe('functions', () => {
+  describe('happyHolidays', () => {
+    it('returns "Happy holidays!"', () => {
+      expect(happyHolidays()).toEqual('Happy holidays!')
+    })
+  })
