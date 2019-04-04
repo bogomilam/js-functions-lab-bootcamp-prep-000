@@ -1,3 +1,3 @@
-function sayHappyHolidays(firstName) {
-  console.log(`Hello, ${firstName}!`)
+function say(happyHolidays) {
+  return "Happy holidays!"
 }
