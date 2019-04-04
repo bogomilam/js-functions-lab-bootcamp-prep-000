@@ -1,4 +1,4 @@
-function HappyHolidays(string) {
+function sayHappyHolidays("Happy holidays!") {
     return  "Happy holidays!"
 }
 function whisper(string) {
